@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Criação do servidor usando ExpressJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe e Aline",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
